@@ -56,5 +56,3 @@ REACT_APP_API_BASE=http://localhost:5000/api npm start
 - Role-based access control
 - Configurable reminder frequency per alert via admin UI
 
-
-Enjoy — this is a working scaffold. Unzip and run the backend & frontend as described above.
